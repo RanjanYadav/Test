@@ -8,3 +8,5 @@ Github for poets.
 Html 
 Css
 JavaScript
+Algorithms
+data structures
